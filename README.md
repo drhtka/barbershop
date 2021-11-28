@@ -1,5 +1,5 @@
 
-<h4 align="center">barbershop</h4>
+<h4 align="center">BARBERSHOP</h4>
 <p>Сайт barbershop</p>
 <h4 align="center">Прект для практики верстки</h4>
 
