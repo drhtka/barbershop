@@ -7,12 +7,10 @@ var mapClose = mapPopup.querySelector(".modal-close")
 mapLink.addEventListener("click", function(evt){
 
   evt.preventDefault();
-  alert('Hello')
   mapPopup.classList.add('modal-show')
 })
 
 mapClose.addEventListener('click', function(evt){
-  alert('Hello-2')
   evt.preventDefault();
   mapPopup.classList.remove("modal-show")
 })
