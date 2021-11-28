@@ -4,7 +4,6 @@
 <h4 align="center">Прект для практики верстки</h4>
 
 
-![alt text](screenshots/filename.jpg "Описание будет тут")
 
 <h4 align="center">Содержание</h4>
 <ol>
@@ -16,6 +15,17 @@
     <li>Модальное окно на JS. для входа и регистрации</li>
 
  </ol>
+
+<h4 align="center">Применялось</h4>
+
+ <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+ </ol>
+
+
+![alt text](screenshots/filename.jpg "Описание будет тут")
 
 <!-- <h4 align="center">В играх применяется:</h4>
 
