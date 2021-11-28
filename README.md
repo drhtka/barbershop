@@ -19,9 +19,11 @@
 <h4 align="center">Применялось</h4>
 
  <ol>
+
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
+    
  </ol>
 
 
