@@ -564,7 +564,7 @@ input[type="radio"].visually-hidden {
   margin-bottom: 15px;
 }
 
-.appointment-item{
+.appointment-form-item{
   width: 140px;
   margin-top: 0;
   margin-bottom: 10px;
@@ -572,23 +572,27 @@ input[type="radio"].visually-hidden {
   /* outline: 5px solid red; */
 }
 
-.appointment-item label{
+.appointment-form-item label{
   display: block;
   margin-bottom: 9px;
   margin-left: 15px;
 }
 
 
-.appointment-item input{
+.appointment-form-item input{
+
+  box-sizing: border-box;
+  padding: 8px 15px;
   width: 140px;
-  padding-top: 8px;
+  /* padding-top: 8px;
   padding-right: 15x;
   padding-bottom: 7px;
-  padding-left: 15px;
+  padding-left: 15px; */
   font: inherit;
   background-color: transparent;
   border: 2px solid var(--basic-black);
 }
+
 .appointment-item input:focus{
   border-color: var(--special);
 }
