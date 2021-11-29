@@ -1265,14 +1265,12 @@ legend{
   transform: rotate(-45deg);
 }
 
-
-
 /************************* Modal map *************************/
 .modal-map{
   display: none;
   width: 766px;
   height: 560px;
-  border: 7px solid white;
+  /* border: 7px solid white; */
 }
 
 .modal-map img {
@@ -1283,6 +1281,7 @@ legend{
   position: relative;
   z-index: 2;
   border: none;
+
 }
 
 /************************* Modal login *************************/
