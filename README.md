@@ -1,9 +1,9 @@
 
 <h4 align="center">BARBERSHOP - Прект для практики верстки</h4>
-<p>[Сайт barbershop](https://drhtka.github.io/barbershop)</p>
+<p>Сайт barbershop</p>
 * Создал: [Дмитрий Пересунько]<!--(https://pydjango.ru/).-->
 
-
+https://drhtka.github.io/barbershop
 
 <h4 align="center">Сверстанные страницы</h4>
   <ol>
